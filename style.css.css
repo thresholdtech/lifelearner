@@ -26,6 +26,13 @@ margin-right: 35px;
   padding-bottom: 25px;
 }
 
+.wrapper2 {
+  display:grid;
+  grid-template-columns: 30% 70%;
+  margin-left:30px;
+
+}
+
 .avatar-image{
 width: 15%;
 float: left;
